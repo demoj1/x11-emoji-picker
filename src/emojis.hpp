@@ -29,4 +29,4 @@ private:
 };
 
 // generated from https://unicode.org/Public/emoji/14.0/emoji-test.txt
-extern const Emoji emojis[3624];
+extern const Emoji emojis[3650];
